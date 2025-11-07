@@ -1,12 +1,12 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Routhu Venkata Sai Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **css,javascript**
+- 🌱 I’m currently learning **machine learning,data science**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-cz5o.vercel.app](https://my-portfolio-cz5o.vercel.app)
 
-- 💬 Ask me about **c,html,css,javascript,python,java**
+- 💬 Ask me about **c,html,css,python,machine learning,artificial intelligence,data science**
 
 - 📫 How to reach me **routhusaikumar137@gmail.com**
 
